@@ -1,5 +1,5 @@
 {
-    "Apple.com":{
+    "https://demo.travlrid.io":{
         "id":"cm2vqfqwh0001te0v8eqcyhjb",
         "name":"apple",
         "logo_url":"https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8ed3d547-94ff-48e1-9f20-8c14a7030a02_2000x2000.jpeg"
@@ -9,7 +9,7 @@
         "name":"Google",
         "logo_url":"https://cdn2.hubspot.net/hubfs/53/image8-2.jpg"
     },
-    "https://test.travlrid.io":{
+    "https://stage.travlrid.io":{
         "id":"clp1hxvcx0001gs7d63d6nwye",
         "name":"GreenCoGroup",
         "logo_url":"https://media.licdn.com/dms/image/v2/D560BAQHMV66uhjS9Hg/company-logo_200_200/company-logo_200_200/0/1704779659763/eco_green_roofs_logo?e=2147483647&v=beta&t=56QkE4zsInIkx_PP4OmbccIj2Kr6phnh4L6LuVFQiDc"
