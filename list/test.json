@@ -9,6 +9,11 @@
         "name":"Scania",
         "logo_url":"https://cdn.freebiesupply.com/logos/large/2x/scania-1-logo-black-and-white.png"
     },
+     "https://scania.travlrid.io":{
+        "id":"cm8n0zbbb000mbe0v0sg20y4q",
+        "name":"Mohit",
+        "logo_url":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/512px-Google_2015_logo.svg.png"
+    },
     "https://stage.travlrid.io":{
         "id":"cm38ur6nc0001tk0vg788mkbb",
         "name":"amazon",
