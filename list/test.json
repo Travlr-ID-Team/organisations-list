@@ -18,19 +18,289 @@
       "logo_url": "https://brandslogos.com/wp-content/uploads/images/large/scania-logo.png"
     },
     {
-      "id": "cmb9iv9si0001c21091c8uk2j",
-      "name": "Amazon",
-      "logo_url": "https://www.hatchwise.com/wp-content/uploads/2022/05/amazon-logo-1024x683.png"
+      "id": "AE0001",
+      "name": "Vestra Trucks Belgium S.A., Grimbergen",
+      "logo_url": "https://brandslogos.com/wp-content/uploads/images/large/scania-logo.png"
     },
     {
-      "id": "cmb8187xz00g1cp10rthdenj2",
+      "id": "AE0002",
+      "name": "Vestra Finance Belgium S.A., Grimbergen",
+      "logo_url": "https://brandslogos.com/wp-content/uploads/images/large/scania-logo.png"
+    },
+    {
+      "id": "AE0003",
+      "name": "Vestra Luxembourg S.A., Sandweiler",
+      "logo_url": "https://brandslogos.com/wp-content/uploads/images/large/scania-logo.png"
+    },
+    {
+      "id": "AE0004",
+      "name": "Vestra Finance Luxembourg S.A., Sandweiler",
+      "logo_url": "https://brandslogos.com/wp-content/uploads/images/large/scania-logo.png"
+    },
+    {
+      "id": "AE0005",
+      "name": "Vestra Manufacturing Zwolle N.V., Zwolle",
+      "logo_url": "https://brandslogos.com/wp-content/uploads/images/large/scania-logo.png"
+    },
+    {
+      "id": "AE0007",
+      "name": "Vestra Assembly Meppel N.V., Meppel",
+      "logo_url": "https://brandslogos.com/wp-content/uploads/images/large/scania-logo.png"
+    },
+    {
+      "id": "AE0008",
+      "name": "Vestra Digital Solutions Netherlands N.V., Zwolle",
+      "logo_url": "https://brandslogos.com/wp-content/uploads/images/large/scania-logo.png"
+    },
+    {
+      "id": "AE0009",
+      "name": "Vestra Logistics B.V., Zwolle",
+      "logo_url": "https://brandslogos.com/wp-content/uploads/images/large/scania-logo.png"
+    },
+    {
+      "id": "AE0010",
+      "name": "Vestra Nederland B.V., Breda",
+      "logo_url": "https://brandslogos.com/wp-content/uploads/images/large/scania-logo.png"
+    },
+    {
+      "id": "AE0011",
+      "name": "Vestra Iberia S.A., Barcelona",
+      "logo_url": "https://brandslogos.com/wp-content/uploads/images/large/scania-logo.png"
+    },
+    {
+      "id": "AE0012",
+      "name": "Vestra Fleet Leasing S.A., Barcelona",
+      "logo_url": "https://brandslogos.com/wp-content/uploads/images/large/scania-logo.png"
+    },
+    {
+      "id": "AE0013",
+      "name": "Vestra Financial Services Iberia S.A., Madrid",
+      "logo_url": "https://brandslogos.com/wp-content/uploads/images/large/scania-logo.png"
+    },
+    {
+      "id": "AE0014",
+      "name": "Product Innovation Group (CVI)",
+      "logo_url": "https://brandslogos.com/wp-content/uploads/images/large/scania-logo.png"
+    },
+    {
+      "id": "AE0015",
+      "name": "Sales & Strategy (CVI)",
+      "logo_url": "https://brandslogos.com/wp-content/uploads/images/large/scania-logo.png"
+    },
+    {
+      "id": "AE0016",
+      "name": "Digital Systems (CVI)",
+      "logo_url": "https://brandslogos.com/wp-content/uploads/images/large/scania-logo.png"
+    },
+    {
+      "id": "AE0017",
+      "name": "Mainline Assembly Södertälje (CVI)",
+      "logo_url": "https://brandslogos.com/wp-content/uploads/images/large/scania-logo.png"
+    },
+    {
+      "id": "AE0018",
+      "name": "Operations Excellence Group (CVI)",
+      "logo_url": "https://brandslogos.com/wp-content/uploads/images/large/scania-logo.png"
+    },
+    {
+      "id": "AE0019",
+      "name": "Procurement & Sourcing (CVI)",
+      "logo_url": "https://brandslogos.com/wp-content/uploads/images/large/scania-logo.png"
+    },
+    {
+      "id": "AE0020",
+      "name": "DriveTrain Assembly (CVI)",
+      "logo_url": "https://brandslogos.com/wp-content/uploads/images/large/scania-logo.png"
+    },
+    {
+      "id": "AE0021",
+      "name": "DriveTrain Machining (CVI)",
+      "logo_url": "https://brandslogos.com/wp-content/uploads/images/large/scania-logo.png"
+    },
+    {
+      "id": "AE0022",
+      "name": "Organizational Services (CVI)",
+      "logo_url": "https://brandslogos.com/wp-content/uploads/images/large/scania-logo.png"
+    },
+    {
+      "id": "AE0023",
+      "name": "Battery Solutions Unit (CVI)",
+      "logo_url": "https://brandslogos.com/wp-content/uploads/images/large/scania-logo.png"
+    },
+    {
+      "id": "AE0024",
+      "name": "Engine Block Machining (CVI)",
+      "logo_url": "https://brandslogos.com/wp-content/uploads/images/large/scania-logo.png"
+    },
+    {
+      "id": "AE0025",
+      "name": "Triton Vehicle Finance AB",
+      "logo_url": "https://brandslogos.com/wp-content/uploads/images/large/scania-logo.png"
+    },
+    {
+      "id": "AE0026",
+      "name": "Corporate Services (CVI)",
+      "logo_url": "https://brandslogos.com/wp-content/uploads/images/large/scania-logo.png"
+    },
+    {
+      "id": "AE0027",
+      "name": "Parts Distribution Group (CVI)",
+      "logo_url": "https://brandslogos.com/wp-content/uploads/images/large/scania-logo.png"
+    },
+    {
+      "id": "AE0028",
+      "name": "Nordic Technical College AB, Södertälje",
+      "logo_url": "https://brandslogos.com/wp-content/uploads/images/large/scania-logo.png"
+    },
+    {
+      "id": "AE0029",
+      "name": "Cabin Introduction Division Oskarshamn (CVI)",
+      "logo_url": "https://brandslogos.com/wp-content/uploads/images/large/scania-logo.png"
+    },
+    {
+      "id": "AE0030",
+      "name": "Cab Assembly Division (CVI)",
+      "logo_url": "https://brandslogos.com/wp-content/uploads/images/large/scania-logo.png"
+    },
+    {
+      "id": "AE0031",
+      "name": "Chassis Prototype Division Södertälje (CVI)",
+      "logo_url": "https://brandslogos.com/wp-content/uploads/images/large/scania-logo.png"
+    },
+    {
+      "id": "AE0032",
+      "name": "Metalform Industries AB, Luleå",
+      "logo_url": "https://brandslogos.com/wp-content/uploads/images/large/scania-logo.png"
+    },
+    {
+      "id": "AE0033",
+      "name": "TechOps Staff Södertälje (CVI)",
+      "logo_url": "https://brandslogos.com/wp-content/uploads/images/large/scania-logo.png"
+    },
+    {
+      "id": "AE0034",
+      "name": "Engine Assembly Division (CVI)",
+      "logo_url": "https://brandslogos.com/wp-content/uploads/images/large/scania-logo.png"
+    },
+    {
+      "id": "AE0035",
+      "name": "Vestra Maintenance Solutions AB, Södertälje",
+      "logo_url": "https://brandslogos.com/wp-content/uploads/images/large/scania-logo.png"
+    },
+    {
+      "id": "AE0036",
+      "name": "Asia TechLab",
+      "logo_url": "https://brandslogos.com/wp-content/uploads/images/large/scania-logo.png"
+    },
+    {
+      "id": "AE0037",
+      "name": "Extended Platform Support (CVI)",
+      "logo_url": "https://brandslogos.com/wp-content/uploads/images/large/scania-logo.png"
+    },
+    {
+      "id": "AE0038",
+      "name": "Vestra Credit AB, Södertälje",
+      "logo_url": "https://brandslogos.com/wp-content/uploads/images/large/scania-logo.png"
+    },
+    {
+      "id": "AE0039",
+      "name": "Triton Energy Solutions AB",
+      "logo_url": "https://brandslogos.com/wp-content/uploads/images/large/scania-logo.png"
+    },
+    {
+      "id": "AE0040",
+      "name": "Cabin Machining Division (CVI)",
+      "logo_url": "https://brandslogos.com/wp-content/uploads/images/large/scania-logo.png"
+    },
+    {
+      "id": "AE0041",
+      "name": "Vestra Sverige AB, Södertälje",
+      "logo_url": "https://brandslogos.com/wp-content/uploads/images/large/scania-logo.png"
+    },
+    {
+      "id": "AE0042",
+      "name": "Triton Capital Services AB",
+      "logo_url": "https://brandslogos.com/wp-content/uploads/images/large/scania-logo.png"
+    },
+    {
+      "id": "AE0043",
+      "name": "Triton Mobility Group AB",
+      "logo_url": "https://brandslogos.com/wp-content/uploads/images/large/scania-logo.png"
+    },
+    {
+      "id": "AE0044",
+      "name": "Vestra Digital Controls AB",
+      "logo_url": "https://brandslogos.com/wp-content/uploads/images/large/scania-logo.png"
+    },
+    {
+      "id": "AE0045",
+      "name": "Mobility Support Services AB, Södertälje",
+      "logo_url": "https://brandslogos.com/wp-content/uploads/images/large/scania-logo.png"
+    },
+    {
+      "id": "AE0046",
+      "name": "Vestra Assistance Group",
+      "logo_url": "https://brandslogos.com/wp-content/uploads/images/large/scania-logo.png"
+    },
+    {
+      "id": "AE0047",
+      "name": "Vestra Transport Lab AB, Södertälje",
+      "logo_url": "https://brandslogos.com/wp-content/uploads/images/large/scania-logo.png"
+    },
+    {
+      "id": "AE0048",
+      "name": "Division Staff Södertälje (CVI)",
+      "logo_url": "https://brandslogos.com/wp-content/uploads/images/large/scania-logo.png"
+    },
+    {
+      "id": "AE0049",
+      "name": "Vestra Training Academy",
+      "logo_url": "https://brandslogos.com/wp-content/uploads/images/large/scania-logo.png"
+    },
+    {
+      "id": "AE0050",
+      "name": "Operations Resource Staff Södertälje (CVI)",
+      "logo_url": "https://brandslogos.com/wp-content/uploads/images/large/scania-logo.png"
+    },
+    {
+      "id": "AE0051",
+      "name": "Management Staff Södertälje (CVI)",
+      "logo_url": "https://brandslogos.com/wp-content/uploads/images/large/scania-logo.png"
+    },
+    {
+      "id": "AE0052",
+      "name": "Treasury & Risk (CVI)",
+      "logo_url": "https://brandslogos.com/wp-content/uploads/images/large/scania-logo.png"
+    },
+    {
+      "id": "AE0053",
+      "name": "Infrastructure & Operations Staff (CVI)",
+      "logo_url": "https://brandslogos.com/wp-content/uploads/images/large/scania-logo.png"
+    },
+    {
+      "id": "AE0054",
+      "name": "Facility Management Group (CVI)",
+      "logo_url": "https://brandslogos.com/wp-content/uploads/images/large/scania-logo.png"
+    },
+    {
+      "id": "AE0055",
+      "name": "Vestra Capital AB",
+      "logo_url": "https://brandslogos.com/wp-content/uploads/images/large/scania-logo.png"
+    },
+    {
+      "id": "AE0056",
+      "name": "Vestra Distribution Hub, Genk",
+      "logo_url": "https://brandslogos.com/wp-content/uploads/images/large/scania-logo.png"
+    },
+    {
+      "id": "AE0057",
       "name": "Ishu, New Delhi",
-      "logo_url": "https://media.licdn.com/dms/image/v2/D5603AQE5Uf9TIWZWqw/profile-displayphoto-shrink_200_200/B56ZYRR3QAGcAc-/0/1744046618146?e=2147483647&v=beta&t=179IwIQ5_aLOEACpUIfaBe7WFgPlL8nKOtxLruQxxFQhttps://www.hatchwise.com/wp-content/uploads/2022/05/amazon-logo-1024x683.png"
+      "logo_url": "https://brandslogos.com/wp-content/uploads/images/large/scania-logo.png"
     },
     {
-      "id": "cmbacyxdw000dbd15x0jtk2qy",
-      "name": "Stage IV 1213",
-      "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/512px-Google_2015_logo.svg.png"
+      "id": "QA ALFA",
+      "name": "Minesh QA",
+      "logo_url": "https://brandslogos.com/wp-content/uploads/images/large/scania-logo.png"
     }
   ]
 }
